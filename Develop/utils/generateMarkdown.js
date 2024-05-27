@@ -78,13 +78,3 @@ module.exports = generateMarkdown;
 
 
 
-Node.js-README-Generator
-├── Develop
-│   ├── utils
-│   │   └── generateMarkdown.js
-│   │   
-│   ├── .gitignore
-│   ├── index.js
-│   └── package.json
-│
-└── README.md
