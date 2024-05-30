@@ -51,23 +51,9 @@ THEN I am taken to the corresponding section of the README
 ```
 
 
-## File Structure
-
-Node.js-README-Generator
-├── Develop
-│   ├── utils
-│   │   └── generateMarkdown.js
-│   │   
-│   ├── .gitignore
-│   ├── index.js
-│   └── package.json
-│
-└── README.md
-
 ## Getting Started
 
 Here were some additional guidelines that helped me get started:
-
 
 * Created a `.gitignore` file and included `node_modules/` and `.DS_Store/` so that my `node_modules` directory isn't tracked or uploaded to GitHub. Created my `.gitignore` file before installing any npm dependencies.
 
@@ -79,7 +65,9 @@ Here were some additional guidelines that helped me get started:
 
 ## Project View
 
-![Terminal View](<./assets/images/>)
+![Terminal View Running App](<Assets/images/README Generator Screenshot 1.jpg>)
+
+![Generated README View](<Assets/images/README Generator Screenshot 2.jpg>)
 
 
 ## Contact Information
@@ -88,8 +76,8 @@ Thanks for visiting!
 If you would like to learn more, or contact me, feel free to reach me at the following:
 
 <ul>
-    <li>Video Walkthrough URL:  </li>
-    <li>GitHub URL:  </li>
+    <li>Video Walkthrough URL: https://drive.google.com/file/d/1JJiAwmMkRaVdayzStU05xzeF3dV_jiyf/view </li>
+    <li>GitHub URL: https://github.com/mandrade09/Node.js-README-Generator </li>
     <li>E-mail: mattandrade09@gmail.com </li>
     <li>Phone: 310.903.9150</li>
 </ul>
