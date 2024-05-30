@@ -21,7 +21,8 @@ Run `npm install` to install dependencies.
 
 ## Usage
 
-1. Ensure you have Node.js installed on your machine.2. Clone the repository to your local machine.3. Navigate to the project directory in your terminal.4. Run `npm install` to install all necessary dependencies.5. Run `node index.js` to start the application.6. Follow the prompts to enter the details for your README file.7. Once all prompts are completed, a `README.md` file will be generated in the project directory.
+1. Ensure you have Node.js installed on your machine.2. Clone the repository to your local machine.
+3. Navigate to the project directory in your terminal.4. Run `npm install` to install all necessary dependencies.5. Run `node index.js` to start the application.6. Follow the prompts to enter the details for your README file.7. Once all prompts are completed, a `README.md` file will be generated in the project directory.
 
 ## License
 
